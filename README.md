@@ -1,10 +1,12 @@
 # FibonacciAPI
 
 <div>1. ติดตั้ง Java Development Kit (JDK) ล่าสุดในเครื่องคอมพิวเตอร์ของคุณ โดยสามารถดาวน์โหลดได้จากเว็บไซต์ของ Oracle หรือ OpenJDK</div>
-<div>2.ติดตั้ง Apache Maven:
+<div>
+	2.ติดตั้ง Apache Maven:
 	- ติดตั้ง Apache Maven เพื่อใช้ในการ build โปรเจค Maven ของคุณ โดยดาวน์โหลดจากเว็บไซต์ของ Apache Maven
-</div>div>
-<div>3.เตรียมโครงสร้างโปรเจค Maven:
+</div>
+<div>
+	3.เตรียมโครงสร้างโปรเจค Maven:
 	- สร้างโครงสร้างโปรเจค Maven ใหม่หรือเปิดโปรเจค Maven ที่มีอยู่แล้วใน IDE ของคุณ เช่น IntelliJ IDEA หรือ Eclipse
 	- นำโค้ด Java ของ Fibonacci API มาวางในไฟล์ Java ที่ต้องการใช้งาน
 </div>
